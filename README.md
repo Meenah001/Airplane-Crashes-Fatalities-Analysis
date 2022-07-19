@@ -77,4 +77,9 @@ Other findings whose questions were not stated;
 - The climatic condition (i.e weather) should be studied very well before taking off from the airport to avoid crashes
 - Passengers should avoid anything that can cause fire hazard e.g smoking while on board
 - Proper maintainance should be done by the operators before onboarding
-[AIRPLANE CRASHES AND FATALITIES.xlsx](https://github.com/Meenah001/Airplane-Crashes-Fatalities-Analysis/files/9143299/AIRPLANE.CRASHES.AND.FATALITIES.xlsx)
+
+
+![Airplane crashes and fatalities Intro page](https://user-images.githubusercontent.com/97677904/179812919-e04d1f81-f6eb-465b-af1d-5a7c9525daa7.jpg)
+![Aiplane crashes and fatalities Analysis](https://user-images.githubusercontent.com/97677904/179812975-8253c62c-519e-4d01-819b-57d3fb4c2bd9.jpg)
+![Aiplane crashes and fatalities Dashboard](https://user-images.githubusercontent.com/97677904/179813008-d8d7f60f-8a3f-4178-b829-029ed03b49f1.jpg)
+
