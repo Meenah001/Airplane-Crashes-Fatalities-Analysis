@@ -14,13 +14,21 @@
 
 
 Some questions were been asked in order to derive a meaningful insight on the data. Some of these questions are;
+
 i) When did the first crash happened? With details
+
 ii) How many crashes occurred over the years?
+
 iii) What is the total number of passengers?
+
 iv) What is the total number of fatalities?
+
 v) Total number of survivor(if any)?
-vi) Countries that had the highest number of fatalities 
+
+vi) Countries that had the highest number of fatalities
+
 vii)Total number of operators?
+
 viii) What are the causes of the crashes? Details
 
 
@@ -77,6 +85,10 @@ Other findings whose questions were not stated;
 - The climatic condition (i.e weather) should be studied very well before taking off from the airport to avoid crashes
 - Passengers should avoid anything that can cause fire hazard e.g smoking while on board
 - Proper maintainance should be done by the operators before onboarding
+
+----
+
+#IMAGE OF THE ANALYSIS
 
 
 ![Airplane crashes and fatalities Intro page](https://user-images.githubusercontent.com/97677904/179812919-e04d1f81-f6eb-465b-af1d-5a7c9525daa7.jpg)
