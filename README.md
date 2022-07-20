@@ -1,8 +1,8 @@
-#AIRPLANE CRASHES AND FATALITIES ANALYSIS
+# AIRPLANE CRASHES AND FATALITIES ANALYSIS
 
 ----
 
-#INTRODUCTION
+# INTRODUCTION
 
 
  This project aimed at getting actionable insight by integrating and analyzing some important things on the crashes and fatalities of Airplane within the given range of years (1908-2009)
@@ -10,7 +10,7 @@
 
 ----
 
-#PROBLEM STATEMENT
+# PROBLEM STATEMENT
 
 
 Some questions were been asked in order to derive a meaningful insight on the data. Some of these questions are;
@@ -34,14 +34,14 @@ viii) What are the causes of the crashes? Details
 
 ----
 
-#DATA SOURCING
+# DATA SOURCING
 
 
 The data was sourced from kaggle ( Airplane Crashes Since 1908/ Kaggle) where numerous data can be gotten, but I scrapped it from Github using this link https://aka.ms/30DATGitHubRepo
 
 ---
 
-#DATA CLEANING/TRANSFORMATION
+# DATA CLEANING/TRANSFORMATION
 
 
 . Data cleaning was performed per column
@@ -51,14 +51,14 @@ The data was sourced from kaggle ( Airplane Crashes Since 1908/ Kaggle) where nu
 
 ----
 
-#DATA ANALYSIS/VISUALIZATION
+# DATA ANALYSIS/VISUALIZATION
 
 
 Analysis was carried out using some of the visuals in Power BI. Appropriate visuals were been used for each of the analysis
 
 ----
 
-#FINDINGS
+# FINDINGS
 
 
 My findings answered all the questions stated initially in the "PROJECT OBJECTIVE" section and beyond
@@ -79,7 +79,7 @@ Other findings whose questions were not stated;
 
 ----
 
-#RECOMMENDATION
+# RECOMMENDATION
 
 
 - The climatic condition (i.e weather) should be studied very well before taking off from the airport to avoid crashes
@@ -88,7 +88,7 @@ Other findings whose questions were not stated;
 
 ----
 
-#IMAGE OF THE ANALYSIS
+# IMAGE OF THE REPORT & DASHBOARD
 
 
 ![Airplane crashes and fatalities Intro page](https://user-images.githubusercontent.com/97677904/179812919-e04d1f81-f6eb-465b-af1d-5a7c9525daa7.jpg)
