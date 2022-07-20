@@ -84,7 +84,7 @@ Other findings whose questions were not stated;
 
 - The climatic condition (i.e weather) should be studied very well before taking off from the airport to avoid crashes
 - Passengers should avoid anything that can cause fire hazard e.g smoking while on board
-- Proper maintainance should be done by the operators before onboarding
+- Proper maintainance should be done by the operators
 
 ----
 
