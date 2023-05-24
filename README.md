@@ -25,11 +25,13 @@ iv) What is the total number of fatalities?
 
 v) Total number of survivor(if any)?
 
-vi) Countries that had the highest number of fatalities
+vi) In Which month was the highest fatality record?
 
 vii)Total number of operators?
 
-viii) What are the causes of the crashes? Details
+viii) What are the causes of the crashes? Details, and the number of fatalities recorded by each causes
+
+ix) Highest number of crashes by flight type
 
 
 ----
@@ -45,8 +47,11 @@ The data was sourced from kaggle ( Airplane Crashes Since 1908/ Kaggle) where nu
 
 
 . Data cleaning was performed per column
+
 . A new column named 'SURVIVOR' was added to the table since it wasn't given in the dataset and it was needed to answer some of the questions. I added this column by subtracting the FATALITIES column from the ABOARD column
+
 . Another column was added which was named 'CRASHES CAUSES', I had to create this column in order to answer those questions related to the causes of the crash. I arrived at this by using 'CONDITIONAL COLUMN' in power query from 'Summary' column
+
 . I also added some new measures to the data
 
 ----
@@ -62,21 +67,32 @@ Analysis was carried out using some of the visuals in Power BI. Appropriate visu
 
 
 My findings answered all the questions stated initially in the "PROJECT OBJECTIVE" section and beyond
-- The first recorded plane crash in history occurred in 1908, this happened by the U.S Army operator flown by Orville Wright, he nose-dived into the ground from a height of approximately 75 feet killing Lt.Thomas E.Selfridge who was a passenger. One of the two propellers seperated in flight, tearing loose the wires bracing the rudder and causing the loss of control of the aircraft. Orville Wright sufferred broken ribs, pelvis and a leg. Selfridge sufferred a crushed skull and later died.
-- The highest number of crashes is 87 which occurred in the year 1970
-- The total number of Fatalities were 105,479(approximately 105000)
-- The total number of passenger is 144551(approximately 145000)
-- The aggregate of the crashes that occurred is 5,268
-- Total number of survivor is 39000
-- Total number of operator is 2470
-- Some of the causes of crashes are Fire, Weather, Shot down, Unknown causes, Engine Failure among others. Weather happened to be the most cause of the crashes with 5152 fatalities
-- Russia, Brazil and Ukraine had the highest fatalities of 6317, 2919 and 2826 respectively
 
-Other findings whose questions were not stated;
-- Aeroflot operator happened to have the most crashes(179) followed by Military U.S. Airforce operator(176)
-- December recorded the highest fatalities across the years with 10459 fatalities
+- The first recorded plane crash in history occurred in 1908, this happened by the U.S Army operator flown by Orville Wright, he nose-dived into the ground from a height of approximately 75 feet killing Lt.Thomas E.Selfridge who was a passenger. One of the two propellers seperated in flight, tearing loose the wires bracing the rudder and causing the loss of control of the aircraft. Orville Wright sufferred broken ribs, pelvis and a leg. Selfridge sufferred a crushed skull and later died.
+
+- The highest number of crashes was 75 which occurred in the year 1972
+ 
+- The total number of Fatalities were 83,433(approximately 83,000)
+
+- The total number of passenger is 117,319(approximately 117,000)
+
+- The aggregate of the crashes that occurred is 2,750
+ 
+- Total number of survivor was 33,886(approximately 34,000)
+
+- Total number of operator is 1,905
+
+- The highest fatalities was recorded in the month of september(8,405 fatalities) 
+
+- Some of the causes of crashes are Fire, Weather, Shot down, Unknown causes, Engine Failure among others. Weather happened to be the most cause of the crashes with 82,384 fatalities
+
+# Other findings whose questions were not stated;
+
+- Douglas DC-3 flight type happened to have the most crashes(237)
+ 
 - Highest death or fatalities by route was seen in the Tenerife-Las Palmas route which recorded up to 583 fatalities
 
+- It was also seen that philippines had the highest number of survivor
 ----
 
 # RECOMMENDATION
