@@ -108,6 +108,4 @@ My findings answered all the questions stated initially in the "PROJECT OBJECTIV
 
 # IMAGE OF THE DASHBOARD
 
-[Airplane Crashes & Fatalities Dashboard.pdf](https://github.com/Meenah001/Airplane-Crashes-Fatalities-Analysis/files/11560307/Airplane.Crashes.Fatalities.Dashboard.pdf)
-
-
+![Screenshot 2023-05-24 212013](https://github.com/Meenah001/Airplane-Crashes-Fatalities-Analysis/assets/97677904/73d4d5c8-08ec-424b-b433-37aa381fbccb)
