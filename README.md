@@ -90,7 +90,7 @@ My findings answered all the questions stated initially in the "PROJECT OBJECTIV
 
 - Douglas DC-3 flight type happened to have the most crashes(237)
  
-- Highest death or fatalities by route was seen in the Tenerife-Las Palmas route which recorded up to 583 fatalities
+- Russia had the highest fatalities(4,170) followed by Brazil(2,308)
 
 - It was also seen that philippines had the highest number of survivor
 ----
@@ -99,15 +99,15 @@ My findings answered all the questions stated initially in the "PROJECT OBJECTIV
 
 
 - The climatic condition (i.e weather) should be studied very well before taking off from the airport to avoid crashes
+
 - Passengers should avoid anything that can cause fire hazard e.g smoking while on board
+
 - Proper maintainance should be done by the operators
 
 ----
 
-# IMAGE OF THE REPORT & DASHBOARD
+# IMAGE OF THE DASHBOARD
 
+[Airplane Crashes & Fatalities Dashboard.pdf](https://github.com/Meenah001/Airplane-Crashes-Fatalities-Analysis/files/11560307/Airplane.Crashes.Fatalities.Dashboard.pdf)
 
-![Airplane crashes and fatalities Intro page](https://user-images.githubusercontent.com/97677904/179812919-e04d1f81-f6eb-465b-af1d-5a7c9525daa7.jpg)
-![Aiplane crashes and fatalities Analysis](https://user-images.githubusercontent.com/97677904/179812975-8253c62c-519e-4d01-819b-57d3fb4c2bd9.jpg)
-![Aiplane crashes and fatalities Dashboard](https://user-images.githubusercontent.com/97677904/179813008-d8d7f60f-8a3f-4178-b829-029ed03b49f1.jpg)
 
